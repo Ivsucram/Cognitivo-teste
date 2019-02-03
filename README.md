@@ -2,10 +2,10 @@
 
 [Link para o Colab](https://colab.research.google.com/drive/1rX4XxTcEcyRIfVgTSw5XnnyNbwje-gct)
 
-Perguntas do teste Vinho Verde
-#5 Perguntas extras do questionário
 
-Aqui serão respondidas as perguntas extras do questionário. Os mesmo estarão em um arquivo README.md em um repoistório git.
+Perguntas do teste Vinho Verde
+
+#5 Perguntas extras do questionário
 
 ## 5.a Como foi a definição da sua estratégia de modelagem?
 
